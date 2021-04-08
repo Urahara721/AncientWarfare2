@@ -8,7 +8,6 @@ import net.minecraftforge.fml.common.eventhandler.SubscribeEvent;
 import net.shadowmage.ancientwarfare.core.config.ModConfiguration;
 import net.shadowmage.ancientwarfare.vehicle.AncientWarfareVehicles;
 
-@Config(modid = AncientWarfareVehicles.MOD_ID, name = "ancientwarfare\\AncientWarfareVehicle")
 public class AWVehicleStatics extends ModConfiguration {
 
 	@SuppressWarnings("unused")
